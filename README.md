@@ -1,20 +1,23 @@
 # angular-starter
 
-This is a repository for a starter application for a Single Page MEAN Stack application. 
+This is a repository for a starter application for a Single Page MEAN Stack application.
 
 ## Includes:
 1. Yeoman as the generetor
 2. Grunt
 3. Bower
-4. libsass
+4. Libsass
 5. Bootstrap Sass Official
 6. Bootswatch as Bootstrap theme
+7. Font-awesome
 
-## Dependencies:
+## Angular dependencies:
 1. angular-ui-router
 2. angular-spinner
 3. angular-strap
-4. font-awesome
+4. angular-animate
+5. angular-touch
+6. angular-sanitize
 
 ### Installation ###
 1. Run `cd my-project` from the command line ('my-project' is the alias of the name of the folder).
