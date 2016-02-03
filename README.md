@@ -1,6 +1,26 @@
 # angular-starter
 
-This is an angular project from scratch.
+This is a repository for a starter application for a Single Page MEAN Stack application. 
+
+## Includes:
+1. Yeoman as the generetor
+2. Grunt
+3. Bower
+4. libsass
+5. Bootstrap Sass Official
+6. Bootswatch as Bootstrap theme
+
+## Dependencies:
+1. angular-ui-router
+2. angular-spinner
+3. angular-strap
+4. font-awesome
+
+### Installation ###
+1. Run `cd my-project` from the command line ('my-project' is the alias of the name of the folder).
+2. Run `npm install` from the command line for installing or the node dependencies.
+3. Run `bower install` from the command line for installing all the project dependencies.
+
 
 ## Build & development
 
